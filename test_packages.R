@@ -1,3 +1,3 @@
 Library(DBI)
-Library(tidyverse) 
+Library(tidyverse) #load packages
 Library(RPostgres)
